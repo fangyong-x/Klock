@@ -75,6 +75,3 @@ leaseTime：获得锁后，自动释放锁的时间。默认为：60s。同时�
 
 # 关于测试
 工程test模块下，为分布式锁的测试模块。可以快速体验分布式锁的效果。
-
-# 使用登记
-如果这个项目解决了你的实际问题，可在[https://gitee.com/kekingcn/spring-boot-klock-starter/issues/IH4NE](http://https://gitee.com/kekingcn/spring-boot-klock-starter/issues/IH4NE)登记下，如果节省了你的研发时间，也愿意支持下的话，可点击下方【捐助】请作者喝杯咖啡，也是非常感谢
